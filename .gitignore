@@ -4,3 +4,5 @@ elm-stuff
 repl-temp-*
 # NodeJS
 node_modules
+# macOS
+.DS_Store
